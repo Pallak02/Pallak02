@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Palak wadhwa</h1>
-- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pallak02](https://github.com/Pallak02)
 
 - 📫 How to reach me **nikkipalak2003@gmail.com**
-
-- ⚡ Fun fact **making people uncomfortable and cracking jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

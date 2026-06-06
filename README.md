@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pallak02](https://github.com/Pallak02)
 
-- 📫 How to reach me **nikkipalak2003@gmail.com**
+- 📫 How to reach me **nikkipalak2003@gmail.com // palakw486@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

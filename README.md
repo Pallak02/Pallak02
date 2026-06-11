@@ -1,10 +1,32 @@
-<h1 align="center">Hi 👋, I'm Palak wadhwa</h1>
+# Hi 👋 I'm Palak Wadhwa
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pallak02](https://github.com/Pallak02)
+MS Data Science @ University of Maryland
 
-- 📫 How to reach me **nikkipalak2003@gmail.com // palakw486@gmail.com**
+Marketing Analytics • Product Analytics • Causal Inference • AI Applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/palak-w-aa16a3211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/palak-w-aa16a3211/" height="30" width="40" /></a>
-</p>
+I build analytics products that help businesses make better decisions using experimentation, machine learning, and causal inference.
+
+## Featured Projects
+
+🚀 AI Marketing Measurement Platform
+- Difference-in-Differences
+- Synthetic Control
+- Geo Lift Analysis
+- Budget Optimization
+- Live Streamlit Dashboard
+
+📈 Marketing Mix Modeling & Budget Optimization
+
+🤖 RAG Marketing Insight Chatbot
+
+📊 Customer Sentiment Analysis
+
+## Tech Stack
+
+Python • SQL • Pandas • Scikit-Learn • Streamlit • AWS • LangChain • Tableau • Power BI
+
+## Connect
+
+LinkedIn: [link]
+
+Email: [email]

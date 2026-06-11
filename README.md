@@ -9,7 +9,7 @@
 - Budget Optimization
 - Live Streamlit Dashboard
 
-📈 Marketing Mix Modeling & Budget Optimization
+📈 Marketing Mix Modeling & Budget Optimization (https://github.com/Pallak02/marketing-mix-model-budget-optimizer)
 
 🤖 RAG Marketing Insight Chatbot
 

@@ -1,3 +1,11 @@
+Hi, I'm Palak Wadhwa
+
+M.S. Data Science @ University of Maryland
+
+Marketing Analytics • Product Analytics • Causal Inference • AI Applications
+
+Building analytics products that transform experimentation, machine learning, and data into business decisions.
+
 ## Featured Projects
 
 🚀 AI Marketing Measurement Platform (https://github.com/Pallak02/media-incrementality-geo-lift-platform)

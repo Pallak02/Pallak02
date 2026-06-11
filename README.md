@@ -1,6 +1,8 @@
 ## Featured Projects
 
-🚀 AI Marketing Measurement Platform
+🚀 AI Marketing Measurement Platform (https://github.com/Pallak02/media-incrementality-geo-lift-platform)
+
+🌐 [Live Demo](https://marketing-incrementality-platform.streamlit.app)
 - Difference-in-Differences
 - Synthetic Control
 - Geo Lift Analysis

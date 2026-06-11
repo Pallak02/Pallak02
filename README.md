@@ -26,6 +26,7 @@ recommend budget allocation decisions.
 📈 Marketing Mix Modeling & Budget Optimization (https://github.com/Pallak02/marketing-mix-model-budget-optimizer)
 
 Built a marketing mix modeling framework to quantify channel-level ROI and optimize media budget allocation across paid search, social, email, and influencer channels.
+
 🤖 RAG Marketing Insight Chatbot
 
 Built a retrieval-augmented generation (RAG) application using AWS Bedrock and LangChain to answer marketing performance questions from structured business documents.

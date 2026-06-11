@@ -27,6 +27,6 @@ Python • SQL • Pandas • Scikit-Learn • Streamlit • AWS • LangChain �
 
 ## Connect
 
-LinkedIn: [www.linkedin.com/in/palakwadhwa7]
+LinkedIn: www.linkedin.com/in/palakwadhwa7
 
-Email: [email]
+Email: palakw486@gmail.com

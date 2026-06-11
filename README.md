@@ -27,6 +27,10 @@ recommend budget allocation decisions.
 
 Built a marketing mix modeling framework to quantify channel-level ROI and optimize media budget allocation across paid search, social, email, and influencer channels.
 
+☁️ Cloud-Native Social Media Marketing Analytics Pipeline (AWS)
+
+Built an end-to-end serverless marketing analytics platform on AWS using API Gateway, Lambda, S3, Athena, DynamoDB, and QuickSight for real-time social media performance analytics and dashboarding.
+
 🤖 RAG Marketing Insight Chatbot
 
 Built a retrieval-augmented generation (RAG) application using AWS Bedrock and LangChain to answer marketing performance questions from structured business documents.

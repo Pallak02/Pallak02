@@ -1,50 +1,35 @@
-Hi, I'm Palak Wadhwa
+# Hi, I'm Palak Wadhwa 👋
 
-M.S. Data Science @ University of Maryland
+M.S. Data Science, University of Maryland
 
-Marketing Analytics • Product Analytics • Causal Inference • AI Applications
+I build analytics products that help organizations measure growth, understand customer behavior, and make better business decisions through experimentation, causal inference, machine learning, and AI.
 
-Building analytics products that transform experimentation, machine learning, and data into business decisions.
+### Areas of Focus
 
-## Featured Projects
+📈 Marketing Analytics & Media Measurement
 
-🚀 AI Marketing Measurement Platform (https://github.com/Pallak02/media-incrementality-geo-lift-platform)
+🚀 Growth Analytics & Experimentation
 
-🌐 [Live Demo](https://marketing-incrementality-platform.streamlit.app)
+🧠 Causal Inference & Incrementality
 
+🤖 AI-Powered Analytics Applications
 
-Built and deployed a marketing measurement platform using
-Difference-in-Differences and Synthetic Control to estimate
-campaign incrementality, generate executive insights, and
-recommend budget allocation decisions.
-- Difference-in-Differences
-- Synthetic Control
-- Geo Lift Analysis
-- Budget Optimization
-- Live Streamlit Dashboard
+📊 Product & Customer Analytics
 
-📈 Marketing Mix Modeling & Budget Optimization (https://github.com/Pallak02/marketing-mix-model-budget-optimizer)
+### Featured Projects
 
-Built a marketing mix modeling framework to quantify channel-level ROI and optimize media budget allocation across paid search, social, email, and influencer channels.
+🚀 AI Growth Analytics Copilot
 
-☁️ Cloud-Native Social Media Marketing Analytics Pipeline (AWS)
+AI-powered analytics platform built on GA4 event-level data for funnel analysis, retention measurement, experimentation, and AI-generated growth insights.
 
-Built an end-to-end serverless marketing analytics platform on AWS using API Gateway, Lambda, S3, Athena, DynamoDB, and QuickSight for real-time social media performance analytics and dashboarding.
+📈 Marketing Incrementality & Geo Lift Platform
 
-🤖 RAG Marketing Insight Chatbot
+Marketing measurement platform using Difference-in-Differences, Synthetic Control, and Geo Lift methodologies to estimate true campaign impact and optimize budget allocation.
 
-Built a retrieval-augmented generation (RAG) application using AWS Bedrock and LangChain to answer marketing performance questions from structured business documents.
+💰 Marketing Mix Modeling & Budget Optimization
 
-📊 Customer Sentiment Analysis
+Bayesian MMM framework for quantifying channel-level ROI and optimizing media spend across digital marketing channels.
 
-Performed NLP-based sentiment analysis across social media and customer feedback channels to identify engagement drivers and customer perception trends.
+🤖 Merchant Cost Insights Chatbot
 
-## Tech Stack
-
-Python • SQL • Pandas • Scikit-Learn • Streamlit • AWS • LangChain • Tableau • Power BI
-
-## Connect
-
-LinkedIn: www.linkedin.com/in/palakwadhwa7
-
-Email: palakw486@gmail.com
+RAG-powered analytics assistant using AWS Bedrock and LangChain to answer business performance questions from structured datasets.
